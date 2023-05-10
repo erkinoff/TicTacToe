@@ -1,3 +1,4 @@
+//Ushbu faylda o'zgaruvchilar saqlanadi
 String menyu = "1. Bir kishilik o'yin\n"
     "2. Ikki kishilik o'yin\n"
     "0. O'yindan chiqish;";

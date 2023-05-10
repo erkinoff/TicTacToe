@@ -1,6 +1,7 @@
 import 'game_klass.dart';
 
 void main(List<String> args) {
+  //O'yin boshlandi
   Game game;
   while (true) {
     game = Game();
